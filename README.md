@@ -133,7 +133,13 @@ Highlights pressure levels and corresponding student distribution.
 Analyzes stress categories and their impact on students.
 
 ---
+## 📷 Dashboard Preview
 
+<p align="center">
+  <img src="Dashboard.png" width="900">
+</p>
+
+---
 ## 📈 Key Insights
 
 - Moderate sleep duration (7–8 hours) shows strong representation.
